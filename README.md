@@ -1,1 +1,2 @@
-# Backend-for-the-Student-Management-System
+To manage studentds(
+Nodejs | Express | MongoDB | Postman)
